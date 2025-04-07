@@ -1,5 +1,5 @@
 <div align="center">
-<h2> <img "https://raw.githubusercontent.com/megaposada/INFIEDRACRAFT-2/refs/heads/main/pack_icon.jpg" width="400" height="400"></h2>
+<h2> <img src="https://raw.githubusercontent.com/megaposada/INFIEDRACRAFT-2/refs/heads/main/pack_icon.jpg" width="400" height="400"></h2>
 
 
 # INFIEDRACRAFT 2
