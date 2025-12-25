@@ -28,7 +28,9 @@ Puedes contactar conmigo si quieres aclarar alguna duda o informar algun bug del
 
 # DESCARGAS
 
--
+href="https://www.mediafire.com/folder/q9mfwb2bbsg3t/INFIEDRACRAFT" target="_blank">
+<img src=https://img.shields.io/badge/megaposada-Twitter-d?logo=X&color=000000&link=https%3A%2F%2Fdiscord.gg%2FHN5sXyU8EY) style="margin-bottom: 5px;" />
+</a> 
 
 # TUTORIAL DEL ADDON
 
